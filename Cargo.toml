@@ -1,6 +1,11 @@
 [package]
 name = "rustlib"
 version = "0.1.0"
+authors = ["Rajni Kant"]
+description = "Sample library in rust"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/karthikrathinavel/rustlibrary1"
+repository = "https://github.com/karthikrathinavel/rustlibrary1"
 edition = "2021"
 
 [dependencies]
