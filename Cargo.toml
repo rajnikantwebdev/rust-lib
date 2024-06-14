@@ -1,5 +1,5 @@
 [package]
-name = "rustlib"
+name = "rajni_rustlib"
 version = "0.1.0"
 authors = ["Rajni Kant"]
 description = "Sample library in rust"

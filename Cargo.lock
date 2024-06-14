@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rustlib"
+name = "rajni_rustlib"
 version = "0.1.0"
