@@ -6,6 +6,6 @@ description = "Sample library in rust"
 license = "MIT OR Apache-2.0"
 homepage = "https://github.com/rajnikantwebdev/rust-lib"
 repository = "https://github.com/rajnikantwebdev/rust-lib"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
